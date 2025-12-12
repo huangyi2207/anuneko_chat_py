@@ -1,4 +1,4 @@
-# [anuneko_chat_py]
+# anuneko_chat_py
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
 这是一个与 [Anuneko.ai](https://anuneko.ai/) 网站进行交互的 Python 项目。它封装了必要的 API 调用，让你能够通过脚本实现聊天功能。
 ## 📋 要求
@@ -14,6 +14,7 @@ cd anuneko_chat_py
 建议使用虚拟环境来隔离项目依赖。
 ```bash
 pip install -r requirements.txt
+pip install -r requirements.txt -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple some-package    #如果上面的源下载慢可以使用国内清华源
 ```
 ### 3. 配置 `x-token`
 为了与 Anuneko.ai 的 API 进行交互，你需要提供你的个人 `x-token`。
