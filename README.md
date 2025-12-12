@@ -32,6 +32,8 @@ pip install -r requirements.txt -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web
 ├── requirements.txt                  # 项目依赖列表
 └── README.md                         # 项目说明文档
 ```
+## 📦开箱即用版
+在[Releases](https://github.com/huangyi2207/anuneko_chat_py/releases)下载即可
 ## 📜 免责声明
 本项目是一个非官方的工具，与 Anuneko.ai 官方没有任何关联。
 - 本项目仅供学习和研究使用，请勿用于任何商业或非法用途。
